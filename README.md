@@ -35,7 +35,7 @@ I'm Abdulrahman Alkhamees. I'm a passionate learner who's always willing to lear
 <hr>
 <h3 align="center">I love to code, create things, solve problems and take on challenges</h3>
   <ul>
-    <li>📫 How to reach me <strong>mailto:aaalkhamees@outlook.com</strong></li>
+    <li>📫 How to reach me <strong>malto:aaalkhamees@outlook.com</strong></li>
   </ul>
 <div style="display: block;">
 <p>
