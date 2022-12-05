@@ -1,5 +1,8 @@
 <!-- visitor counter -->
 <h3 align="left">Profile Views: 🧐</h3>
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/Abd-ulRahman/count.svg" />
+</p>
 
   ![Profile views](https://gpvc.arturio.dev/Abd-ulRahman)
 
