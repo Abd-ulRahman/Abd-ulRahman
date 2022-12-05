@@ -25,11 +25,11 @@ I'm Abdulrahman Alkhamees. I'm a passionate learner who's always willing to lear
 
 <!-- Connect with me -->
 <h3 align="left">Connect with me:</h3>
-<p align="center">
+<p align="left">
 
-<a href="https://twitter.com/Alkhamees_1970"/>twitter</a>
-<a href="https://linkedin.com/in/abdulrahman-alkhamees-83675320a"/>linkedin</a>
-<a href="https://instagram.com/abdulrahman.alkhamees"/>instagram</a>
+<a href="https://twitter.com/Alkhamees_1970">twitter</a>
+<a href="https://linkedin.com/in/abdulrahman-alkhamees-83675320a">linkedin</a>
+<a href="https://instagram.com/abdulrahman.alkhamees">instagram</a>
 </p>
 
 <!-- GITHUB STATS -->
