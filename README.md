@@ -1,7 +1,7 @@
 <!-- visitor counter -->
 <h3 align="left">Profile Views: 🧐</h3>
 <p align="center"> 
-  ![Profile views](https://gpvc.arturio.dev/Abd-ulRahman)
+  ![Profile views](https://gpvc.arturio.dev/[Abd-ulRahman])
 </p>
 
 <!-- welcome message -->
