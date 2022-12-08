@@ -24,13 +24,14 @@ I'm Abdulrahman Alkhamees. I'm a passionate learner who's always willing to lear
 - 🌱 I’m currently learning Full stack development.
 
 <!-- Connect with me -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 
-<a href="https://twitter.com/Alkhamees_1970">twitter</a>
-<a href="https://linkedin.com/in/abdulrahman-alkhamees-83675320a">linkedin</a>
-<a href="https://instagram.com/abdulrahman.alkhamees">instagram</a>
+<a href="https://twitter.com/Alkhamees_1970" target="blank"><img align="center" src="https://github.com/Abd-ulRahman/Abd-ulRahman/blob/master/assets/twitter.svg" alt="Abd-ulRahman" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/abdulrahman-alkhamees-83675320a" target="blank"><img align="center" src="https://github.com/Abd-ulRahman/Abd-ulRahman/blob/master/assets/linkedin.svg" alt="Abd-ulRahman" height="30" width="30" /></a>
+<a href="https://instagram.com/abdulrahman.alkhamees" target="blank"><img align="center" src="https://github.com/Abd-ulRahman/Abd-ulRahman/blob/master/assets/instagram.svg" alt="Abd-ulRahman" height="30" width="30" /></a>
 </p>
+
 
 <!-- GITHUB STATS -->
 
