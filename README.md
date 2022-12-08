@@ -1,8 +1,10 @@
 
 <!-- 
  -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=Abd-ulRahman&background=66000000&&theme=tokyonight)](https://git.io/streak-stats)
 ![Banner](https://github.com/Abd-ulRahman/Abd-ulRahman/blob/main/assets/my_avators.gif)
+
+</pr>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Abd-ulRahman&background=66000000&&theme=tokyonight)](https://git.io/streak-stats)
 
 <!-- visitor counter -->
 <h3 align="left">Profile Views: 🧐</h3>
