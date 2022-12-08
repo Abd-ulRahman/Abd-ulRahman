@@ -1,6 +1,7 @@
-![Banner](https://github.com/Abd-ulRahman/Abd-ulRahman/blob/main/assets/my_avators.gif)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Abd-ulRahman&theme=tokyonight)](https://git.io/streak-stats)
+
+![Banner](https://github.com/Abd-ulRahman/Abd-ulRahman/blob/main/assets/my_avators.gif)
 
 <!-- visitor counter -->
 <h3 align="left">Profile Views: 🧐</h3>
