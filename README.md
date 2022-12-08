@@ -52,10 +52,10 @@ I'm Abdulrahman Alkhamees. I'm a passionate learner who's always willing to lear
 
 <p>
 <!-- GitHub Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abd-ulRahman&bg_color=66000000&show_icons=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abd-ulRahman&bg_color=66000000&show_icons=true&hide_border=false" />
 
 <!-- Most Used Languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abd-ulRahman&bg_color=66000000&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abd-ulRahman&bg_color=66000000&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=false&layout=compact&langs_count=10"/>
 </p>
 </details>
 <br/>
@@ -64,7 +64,7 @@ I'm Abdulrahman Alkhamees. I'm a passionate learner who's always willing to lear
 <hr>
 <br>
 <p align="center">
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Abd-ulRahman&background=66000000&hide_border=true" width="48%" alt="My Streak"/></a>
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Abd-ulRahman&background=66000000&hide_border=false" width="48%" alt="My Streak"/></a>
 </p>
 <!---
 Abd-ulRahman/Abd-ulRahman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
