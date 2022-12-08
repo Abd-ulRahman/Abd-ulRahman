@@ -1,3 +1,5 @@
+![Banner](https://github.com/Abd-ulRahman/Abd-ulRahman/blob/main/assets/my_avators.gif)
+
 <!-- visitor counter -->
 <h3 align="left">Profile Views: 🧐</h3>
 <p align="center"> 
