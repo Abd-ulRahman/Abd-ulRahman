@@ -55,7 +55,7 @@ I'm Abdulrahman Alkhamees. I'm a passionate learner who's always willing to lear
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abd-ulRahman&show_icons=true&hide_border=false" />
 
 <!-- Most Used Languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abd-ulRahman&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=false&layout=compact&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abd-ulRahman&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=false&layout=compact&langs_count=10"/>
 </p>
 </details>
 <br/>
