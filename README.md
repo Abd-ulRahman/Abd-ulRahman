@@ -5,7 +5,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/Abd-ulRahman.svg?style=social&label=Followers)](https://github.com/Abd-ulRahman?tab=followers)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Abd-ulRahman&background=66000000&&theme=vision-friendly-dark)](https://git.io/streak-stats)
-
 <!-- visitor counter -->
 <h3 align="left">Profile Views: 🧐</h3>
 <p align="center"> 
