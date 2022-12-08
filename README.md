@@ -1,6 +1,7 @@
 
+<!-- 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Abd-ulRahman&theme=tokyonight)](https://git.io/streak-stats)
-
+ -->
 ![Banner](https://github.com/Abd-ulRahman/Abd-ulRahman/blob/main/assets/my_avators.gif)
 
 <!-- visitor counter -->
@@ -64,6 +65,11 @@ I'm Abdulrahman Alkhamees. I'm a passionate learner who's always willing to lear
 <br/>
 </p>
 </div>
+<hr>
+<br>
+<p align="center">
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Abd-ulRahman&background=66000000&theme=tokyonight&hide_border=false" width="48%" alt="My Streak"/></a>
+</p>
 <!---
 <hr>
 <br>
