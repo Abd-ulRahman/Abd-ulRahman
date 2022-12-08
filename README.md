@@ -3,12 +3,11 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Abd-ulRahman&background=66000000&&theme=tokyonight)](https://git.io/streak-stats)
 
-[![GitHub followers](https://img.shields.io/github/followers/Abd-ulRahman.svg?style=social&label=Followers)](https://github.com/Abd-ulRahman?tab=followers)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=Abd-ulRahman&background=66000000&&theme=vision-friendly-dark)](https://git.io/streak-stats)
  -->
 ![Banner](https://github.com/Abd-ulRahman/Abd-ulRahman/blob/main/assets/my_avators.gif)
 
+[![GitHub followers](https://img.shields.io/github/followers/Abd-ulRahman.svg?style=social&label=Followers)](https://github.com/Abd-ulRahman?tab=followers)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Abd-ulRahman&background=66000000&&theme=vision-friendly-dark)](https://git.io/streak-stats)
 
