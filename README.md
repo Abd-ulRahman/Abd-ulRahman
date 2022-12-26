@@ -3,6 +3,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <link type="text/css" rel="stylesheet" media="all" href="https://github.com/Abd-ulRahman/Abd-ulRahman/main/style.css" />
 </head>
+<div class= "box" align="center">
 
 ![Banner](https://github.com/Abd-ulRahman/Abd-ulRahman/blob/main/my_avatar.gif)
 
