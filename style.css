@@ -1,4 +1,31 @@
-#fares {
+body {
+font: 14px Arial,"Lucida Grande","Arial","Tahoma","Verdana",sans-serif;
+font-family: Times New Roman;;
+color:#444;
+margin:0;
+margin-bottom:10px;
+}
+
+.properties .label {
+  text-align: right;
+}
+
+h1 { font-size: 130%; text-align: center; }
+
+a {
+text-decoration:none;
+color:#0033CC;
+}
+
+a img {
+border:0;
+}
+
+a:hover {
+text-decoration:underline;
+}
+
+.fares {
 width:950px;
 margin-left:auto;
 margin-right:auto;
