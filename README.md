@@ -73,9 +73,7 @@ I'm Abdulrahman Alkhamees. I'm a passionate learner who's always willing to lear
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abd-ulRahman&bg_color=66000000&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=false&layout=compact&langs_count=10"/>
 </p>
 </details>
-<br/>
-</p>
-</div>
+</hr>
 
 </div><!--box-->
 <!---
