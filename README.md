@@ -74,16 +74,3 @@ I'm Abdulrahman Alkhamees. I'm a passionate learner who's always willing to lear
 </details>
 </hr>
 </div><!--box-->
-
-<!---
-</div><!--box-->
-<hr>
-<br>
-<p align="center">
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Abd-ulRahman&background=66000000&theme=tokyonight&hide_border=false" width="48%" alt="My Streak"/></a>
-</p>
---->
-<!---
-Abd-ulRahman/Abd-ulRahman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
