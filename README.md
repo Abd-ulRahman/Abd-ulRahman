@@ -3,7 +3,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" dir="ltr">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<link type="text/css" rel="stylesheet" media="all" href="https://github.com/Abd-ulRahman/Abd-ulRahman/main/style.css" />
+<link type="text/css" rel="stylesheet" media="all" href="https://github.com/Abd-ulRahman/Abd-ulRahman/blob/main/style.css" />
 </head>
 
 <div class="box" align="center">
