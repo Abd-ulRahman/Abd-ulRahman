@@ -1,3 +1,13 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link type="text/css" rel="stylesheet" media="all" href="https://github.com/Abd-ulRahman/Abd-ulRahman/main/style.css" />
+</head>
+
+<div class="box" align="center">
+  
 ![Banner](https://github.com/Abd-ulRahman/Abd-ulRahman/blob/main/my_avatar.gif)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=860000&size=30&lines=Hey!+It's+Abdulrahman!;I'm+a+web+and+application+Developer...;I'm+also+Machine+Learning+Student;And+I'm+a+proud+Saudi+SA)](https://git.io/typing-svg)
@@ -77,3 +87,4 @@ I'm Abdulrahman Alkhamees. I'm a passionate learner who's always willing to lear
 Abd-ulRahman/Abd-ulRahman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+</div>
