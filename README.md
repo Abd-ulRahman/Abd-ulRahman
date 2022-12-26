@@ -1,5 +1,4 @@
-<?php $image = 'https://github.com/Abd-ulRahman/Abd-ulRahman/blob/main/images/bg.jpg'; // fetch the ACF field ?>
-<div background-image: url($image) align="center">
+<div background: url('https://github.com/Abd-ulRahman/Abd-ulRahman/blob/main/images/bg.jpg') align="center">
 
 ![Banner](https://github.com/Abd-ulRahman/Abd-ulRahman/blob/main/my_avatar.gif)
 
