@@ -6,7 +6,7 @@
 <link type="text/css" rel="stylesheet" media="all" href="https://github.com/Abd-ulRahman/Abd-ulRahman/main/style.css" />
 </head>
 
-<div class="box" align="center">
+<div class="fares" align="center">
   
 ![Banner](https://github.com/Abd-ulRahman/Abd-ulRahman/blob/main/my_avatar.gif)
 
@@ -75,7 +75,7 @@ I'm Abdulrahman Alkhamees. I'm a passionate learner who's always willing to lear
 </details>
 </hr>
 
-</div><!--box-->
+</div><!--fares-->
 <!---
 <hr>
 <br>
