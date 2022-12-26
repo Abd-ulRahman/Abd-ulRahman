@@ -1,12 +1,9 @@
-<html>
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr">
 <head>
-<style type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link type="text/css" rel="stylesheet" media="all" href="https://github.com/Abd-ulRahman/Abd-ulRahman/main/style.css" />
+</head>
 
-body {
-background-image: url("https://github.com/Abd-ulRahman/Abd-ulRahman/blob/main/images/bg.jpg");
-}
-</style>
-  
 ![Banner](https://github.com/Abd-ulRahman/Abd-ulRahman/blob/main/my_avatar.gif)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=860000&size=30&lines=Hey!+It's+Abdulrahman!;I'm+a+web+and+application+Developer...;I'm+also+Machine+Learning+Student;And+I'm+a+proud+Saudi+SA)](https://git.io/typing-svg)
@@ -48,6 +45,8 @@ I'm Abdulrahman Alkhamees. I'm a passionate learner who's always willing to lear
 <a href="https://instagram.com/abdulrahman.alkhamees" target="blank"><img align="center" src="https://github.com/Abd-ulRahman/Abd-ulRahman/blob/main/assets/instagram.svg" alt="Abd-ulRahman" height="30" width="30" /></a>
 </p>
 
+</head>
+<body>
 
 
 <!-- GITHUB STATS -->
@@ -73,6 +72,7 @@ I'm Abdulrahman Alkhamees. I'm a passionate learner who's always willing to lear
 </p>
 </details>
 </hr>
+</div><!--box-->
 
 <!---
 </div><!--box-->
