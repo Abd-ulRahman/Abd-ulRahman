@@ -1,9 +1,5 @@
-<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<link type="text/css" rel="stylesheet" media="all" href="https://github.com/Abd-ulRahman/Abd-ulRahman/main/style.css" />
-</head>
-<div class= "box" align="center">
+<?php $image = 'https://github.com/Abd-ulRahman/Abd-ulRahman/blob/main/images/bg.jpg'; // fetch the ACF field ?>
+<div class="container"  align="center"  style="background-image: url(<?php echo $image; ?>);">
 
 ![Banner](https://github.com/Abd-ulRahman/Abd-ulRahman/blob/main/my_avatar.gif)
 
@@ -47,7 +43,6 @@ I'm Abdulrahman Alkhamees. I'm a passionate learner who's always willing to lear
 </p>
 
 </head>
-<body>
 
 
 <!-- GITHUB STATS -->
@@ -73,4 +68,4 @@ I'm Abdulrahman Alkhamees. I'm a passionate learner who's always willing to lear
 </p>
 </details>
 </hr>
-</div><!--box-->
+</body>
