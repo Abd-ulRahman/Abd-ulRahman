@@ -1,12 +1,11 @@
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr">
+<html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<link type="text/css" rel="stylesheet" media="all" href="https://github.com/Abd-ulRahman/Abd-ulRahman/blob/main/style.css" />
-</head>
+<style type="text/css">
 
-<div class="box" align="center">
+body {
+background-image: url("https://github.com/Abd-ulRahman/Abd-ulRahman/blob/main/images/bg.jpg");
+}
+</style>
   
 ![Banner](https://github.com/Abd-ulRahman/Abd-ulRahman/blob/main/my_avatar.gif)
 
@@ -75,8 +74,8 @@ I'm Abdulrahman Alkhamees. I'm a passionate learner who's always willing to lear
 </details>
 </hr>
 
-</div><!--box-->
 <!---
+</div><!--box-->
 <hr>
 <br>
 <p align="center">
