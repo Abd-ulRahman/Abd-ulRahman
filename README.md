@@ -1,4 +1,4 @@
-<div background: url('https://github.com/Abd-ulRahman/Abd-ulRahman/blob/main/images/bg.jpg') align="center">
+<div background-image: url('https://github.com/Abd-ulRahman/Abd-ulRahman/blob/main/images/bg.jpg') align="center">
 
 ![Banner](https://github.com/Abd-ulRahman/Abd-ulRahman/blob/main/my_avatar.gif)
 
