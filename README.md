@@ -1,4 +1,4 @@
-<hr background-color:"#FFFFCC" align="center">
+<div align="center" bg_color=#FFFFCC>
 
 ![Banner](https://github.com/Abd-ulRahman/Abd-ulRahman/blob/main/my_avatar.gif)
 
@@ -67,4 +67,4 @@ I'm Abdulrahman Alkhamees. I'm a passionate learner who's always willing to lear
 </p>
 </details>
 </hr>
-</hr>
+</div>
