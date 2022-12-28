@@ -1,3 +1,5 @@
+<hr background-color:"#FFFFCC" align="center">
+
 ![Banner](https://github.com/Abd-ulRahman/Abd-ulRahman/blob/main/my_avatar.gif)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=860000&size=30&lines=Hey!+It's+Abdulrahman!;I'm+a+web+and+application+Developer...;I'm+also+Machine+Learning+Student;And+I'm+a+proud+Saudi+SA)](https://git.io/typing-svg)
@@ -64,4 +66,5 @@ I'm Abdulrahman Alkhamees. I'm a passionate learner who's always willing to lear
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abd-ulRahman&bg_color=66000000&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=false&layout=compact&langs_count=10"/>
 </p>
 </details>
+</hr>
 </hr>
