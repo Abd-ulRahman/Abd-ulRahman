@@ -28,9 +28,9 @@ I'm Abdulrahman Alkhamees. I'm a passionate learner who's always willing to lear
 <!-- Personal Stuffs -->
 <h3> Talking about personal stuffs:</h3>
 
-- 👨🏽‍💻 I’m currently working on something cool,  😉![image](https://user-images.githubusercontent.com/1366228/210380132-fd71dc77-0c61-4429-a4ad-c880c6e2abba.png)
+- 👨🏽‍💻 I’m currently working on something cool,  😉
 
-- https://www.mediafire.com/file/atq2opul4l7f2vk
+- https://www.mediafire.com/file/atq2opul4l7f2vk ![image](https://user-images.githubusercontent.com/1366228/210380132-fd71dc77-0c61-4429-a4ad-c880c6e2abba.png)
 - https://www.mediafire.com/file/pixco1g9q8ufze1
 
 - 🌱 I’m currently learning Full stack development.
