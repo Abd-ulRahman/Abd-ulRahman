@@ -1,4 +1,4 @@
-<div align="center" style="background-color:#f3cb00">
+<div align="center">
 
 ![Banner](https://github.com/Abd-ulRahman/Abd-ulRahman/blob/main/my_avatar.gif)
 
