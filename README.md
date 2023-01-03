@@ -28,7 +28,9 @@ I'm Abdulrahman Alkhamees. I'm a passionate learner who's always willing to lear
 <!-- Personal Stuffs -->
 <h3> Talking about personal stuffs:</h3>
 
-- 👨🏽‍💻 I’m currently working on something cool, it will be released as soon as I do finish it 😉
+- 👨🏽‍💻 I’m currently working on something cool,  😉
+- https://www.mediafire.com/file/atq2opul4l7f2vk
+- https://www.mediafire.com/file/pixco1g9q8ufze1
 
 - 🌱 I’m currently learning Full stack development.
 
