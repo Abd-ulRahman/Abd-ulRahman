@@ -6,7 +6,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/Abd-ulRahman.svg?style=social&label=Followers)](https://github.com/Abd-ulRahman?tab=followers)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Abd-ulRahman&border_radius=6&background=66000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Abd-ulRahman&hide_border=false&border_color=2e4058&background=66000000)](https://git.io/streak-stats)
 <!-- visitor counter -->
 <h3 align="left">Profile Views: 🧐</h3>
 <p align="center"> 
@@ -63,10 +63,10 @@ I'm Abdulrahman Alkhamees. I'm a passionate learner who's always willing to lear
 
 <p>
 <!-- GitHub Stats -->
-<img height="180em" src="https://github-readme-stats-abd-ulrahman.vercel.app/api?username=Abd-ulRahman&bg_color=66000000&show_icons=true&hide_border=false" />
+<img height="180em" src="https://github-readme-stats-abd-ulrahman.vercel.app/api?username=Abd-ulRahman&bg_color=66000000&show_icons=true&hide_border=false&border_color=2e4058" />
 
 <!-- Most Used Languages -->
-<img height="180em" src="https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=Abd-ulRahman&bg_color=66000000&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=false&layout=compact&langs_count=10"/>
+<img height="180em" src="https://github-readme-stats-abd-ulrahman.vercel.app/api/top-langs/?username=Abd-ulRahman&bg_color=66000000&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=false&border_color=2e4058&layout=compact&langs_count=10"/>
 </p>
 </details>
 </hr>
