@@ -31,7 +31,7 @@ I'm Abdulrahman Alkhamees. I'm a passionate learner who's always willing to lear
 - 👨🏽‍💻 I’m currently working on something cool,  😉
   
   <a href="https://www.mediafire.com/file/ocl1cgn9zou7mkc" target="blank">![image](https://user-images.githubusercontent.com/1366228/210380132-fd71dc77-0c61-4429-a4ad-c880c6e2abba.png) 
-      Legundary Core Repack Rev052 dbc, Maps, VMaps and MMaps are included</a>
+      Legundary Core WoTLK Repack Rev052 dbc, Maps, VMaps and MMaps are included</a>
 
 - 🌱 I’m currently learning Full stack development.
 
