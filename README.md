@@ -34,7 +34,8 @@ I'm Abdulrahman Alkhamees. I'm a passionate learner who's always willing to lear
 - 🌱 I’m currently learning Full stack development.
   
 - ✔ This is My first Work with Swish Max 4 and Adobe animate.
-  ![index2](https://user-images.githubusercontent.com/1366228/228019103-0445b10c-0d71-447d-bbb7-9fe43629e74a.gif)
+ ![index2](https://user-images.githubusercontent.com/1366228/228021113-18ea213b-cd56-4325-9f6d-bf49f51b8af9.gif)
+
 
   
 <!-- Connect with me -->
