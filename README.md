@@ -2,7 +2,7 @@
 
 ![Banner](https://github.com/Abd-ulRahman/Abd-ulRahman/blob/main/my_avatar.gif)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=860000&size=30&lines=Hey!+It's+Abdulrahman!;I'm+a+web+and+application+Developer;I'm+also+Machine+Learning+Student;And+I'm+a+proud+Saudi+SA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=860000&size=30&duration=6000&lines=Hey!+It's+Abdulrahman!;I'm+a+web+and+application+Developer;I'm+also+Machine+Learning+Student;And+I'm+a+proud+Saudi+SA)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/Abd-ulRahman.svg?style=social&label=Followers)](https://github.com/Abd-ulRahman?tab=followers)
 
