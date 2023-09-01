@@ -30,7 +30,7 @@ I'm Abdulrahman Alkhamees. I'm a passionate learner who's always willing to lear
 
 - 👨🏽‍💻 I’m currently working on something cool,  😉
   
-  https://beautiful-mind-wotlk-repack.blogspot.com/2023/06/beautiful-mind-repacks-this-repack-has.html
+  😊✔
 
 - 🌱 I’m currently learning Full stack development.
   
