@@ -31,7 +31,7 @@ I'm Abdulrahman Alkhamees. I'm a passionate learner who's always willing to lear
 
 - 👨🏽‍💻 I’m currently working on something cool,  😉
   
-  😊✔ https://github.com/Abd-ulRahman/LegendaryCore
+  😊✔ 
 
 - 🌱 I’m currently learning Full stack development.
   
