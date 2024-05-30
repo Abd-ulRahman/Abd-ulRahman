@@ -30,7 +30,7 @@ I'm Abdulrahman Alkhamees. I'm a passionate learner who's always willing to lear
 <h3> Talking about personal stuffs:</h3>
 
 - 👨🏽‍💻 I’m currently working on something cool,  😉
-# Current Long live  time format: Detailed 
+# Current Long (live) time format: Detailed 
   😊✔ https://stackoverflow.com/a/65871072
 
 - 🌱 I’m currently learning Full stack development.
