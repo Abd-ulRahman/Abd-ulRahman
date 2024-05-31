@@ -32,6 +32,8 @@ I'm Abdulrahman Alkhamees. I'm a passionate learner who's always willing to lear
 - 👨🏽‍💻 I’m currently working on something cool,  😉
 # Current Long (live) time format: Detailed 
   😊✔ https://stackoverflow.com/a/65871072
+Ex
+![image](https://github.com/Abd-ulRahman/Abd-ulRahman/assets/1366228/ef4fc7cc-5967-403f-8863-a882d8d49738)
 
 - 🌱 I’m currently learning Full stack development.
   
