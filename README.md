@@ -31,8 +31,7 @@ I'm Abdulrahman Alkhamees. I'm a passionate learner who's always willing to lear
 
 - 👨🏽‍💻 I’m currently working on something cool,  😉
 
-![https://www.ownedcore.com/forums/world-of-warcraft/world-of-warcraft-emulator-servers/wow-emu-general-releases/1023777-beautiful-mind-wotlk-one-player-repack-ultimate-fixes.html](https://i.imgur.com/6JNPClO.png)
-
+[![index6]https://www.ownedcore.com/forums/world-of-warcraft/world-of-warcraft-emulator-servers/wow-emu-general-releases/1023777-beautiful-mind-wotlk-one-player-repack-ultimate-fixes.html](https://i.imgur.com/6JNPClO.png)
 
 
 # Current Long (live) time format: Detailed 
