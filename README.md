@@ -31,7 +31,7 @@ I'm Abdulrahman Alkhamees. I'm a passionate learner who's always willing to lear
 
 - 👨🏽‍💻 I’m currently working on something cool,  😉
 
-<a href="https://www.ownedcore.com/forums/showthread.php?t=1023777&p=4479861#post4479861", "_blank"><img src="https://i.imgur.com/6JNPClO.png"></a>
+<a href="https://www.ownedcore.com/forums/showthread.php?t=1023777&p=4479861#post4479861"><img src="https://i.imgur.com/6JNPClO.png"></a>
 
 
 # Current Long (live) time format: Detailed 
