@@ -30,8 +30,9 @@ I'm Abdulrahman Alkhamees. I'm a passionate learner who's always willing to lear
 <h3> Talking about personal stuffs:</h3>
 
 - 👨🏽‍💻 I’m currently working on something cool,  😉
-
-<a href="https://www.ownedcore.com/forums/showthread.php?t=1023777&p=4479861#post4479861" target="_blank"><img src="https://i.imgur.com/6JNPClO.png"></a>
+- 
+Unfortunately
+THIS PROJECT HAS BEEN ABANDONED
 
 # Current Long (live) time format: Detailed 
   😊✔ https://stackoverflow.com/a/65871072
