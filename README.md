@@ -8,7 +8,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/Abd-ulRahman.svg?style=social&label=Followers)](https://github.com/Abd-ulRahman?tab=followers)
 
-[![GitHub Streak](https://streak-stats.demolab.com/user=Abd-ulRahman)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Abd-ulRahman&theme=dark)](https://git.io/streak-stats)
 
 
 <!-- visitor counter -->
