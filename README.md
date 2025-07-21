@@ -12,10 +12,10 @@
 
 
 <!-- visitor counter -->
-<h3 align="left">Profile Views: 🧐</h3>
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/Abd-ulRahman/count.svg" />
-</p>
+ 🧐  ![]( https://komarev.com/ghpvc/?username=Abd-ulRahman&color=FF0000 ) 
+
+  
+
 <!-- 
   ![Profile Views](https://gpvc.arturio.dev/Abd-ulRahman)
  -->
