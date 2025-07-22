@@ -6,13 +6,15 @@
 
 [![Typing SVG2](https://readme-typing-svg.demolab.com?font=Architects+Daughter&size=28&pause=1000&color=0000FF&center=true&width=500&lines=الحمدلله+حمداً+طيباً+كثيراً+مباركاً+فيه)](https://git.io/typing-svg)
 
-[![GitHub Stars](https://img.shields.io/github/stars/Abd-ulRahman.svg?style=social&label=Stars)](https://github.com/Abd-ulRahman?tab=stars)
+[![GitHub Stars](https://img.shields.io/github/stars/Abd-ulRahman.svg?style=social&label=Starred)](https://github.com/Abd-ulRahman?tab=starred)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Abd-ulRahman&theme=dark)](https://git.io/streak-stats)
 
 
 <!-- visitor counter -->
- 🧐  ![](https://komarev.com/ghpvc/?username=Abd-ulRahman&color=FF0000) 
+<h1> 🧐 <h1> 
+  
+![](https://komarev.com/ghpvc/?username=Abd-ulRahman&color=FF0000)
 
   
 
