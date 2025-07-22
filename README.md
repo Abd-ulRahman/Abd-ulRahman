@@ -5,19 +5,18 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Architects+Daughter&size=28&pause=1000&color=BE0000&center=true&width=500&lines=Hey!+This+is+Abdulrahman.;I'm+a+web+and+application+Developer;I'm+also+Machine+Learning+Student;And+I'm+a+proud+SAUDI+Mocelem)](https://git.io/typing-svg)
 
 [![Typing SVG2](https://readme-typing-svg.demolab.com?font=Architects+Daughter&size=28&pause=1000&color=0000FF&center=true&width=500&lines=الحمدلله+حمداً+طيباً+كثيراً+مباركاً+فيه)](https://git.io/typing-svg)
-
+  
 [![GitHub Starred](https://img.shields.io/github/stars/Abd-ulRahman.svg?style=social&label=Starred)](https://github.com/Abd-ulRahman?tab=Starred)
 
+<!-- GitHub Streak -->
+<h1> 🔢 <h1> 
+  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Abd-ulRahman&theme=dark)](https://git.io/streak-stats)
-
-
+  
 <!-- visitor counter -->
-<h1> 🧐 <h1> 
+<h1> 🧐 <h1>
   
-![](https://komarev.com/ghpvc/?username=Abd-ulRahman&color=FF0000)
-
-  
-
+  ![](https://komarev.com/ghpvc/?username=Abd-ulRahman&color=FF0000)
 <!-- 
   ![Profile Views](https://gpvc.arturio.dev/Abd-ulRahman)
  -->
