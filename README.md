@@ -36,8 +36,8 @@ I'm Abdulrahman Alkhamees. I'm a passionate learner who's always willing to lear
 
 - 👨🏽‍💻 I’m currently working on something cool,  😉
 - 
-Unfortunately
-THIS PROJECT HAS BEEN ABANDONED
+<!-- Unfortunately
+THIS PROJECT HAS BEEN ABANDONED -->
 
 # Current Long (live) time format: Detailed 
   😊✔ https://stackoverflow.com/a/65871072
