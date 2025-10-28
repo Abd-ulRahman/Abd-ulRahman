@@ -34,7 +34,7 @@ I'm Abdulrahman Alkhamees. I'm a passionate learner who's always willing to lear
 <h3> Talking about personal stuffs:</h3>
 
 - 👨🏽‍💻 I’m currently working on something cool,  😉
--  https://www.ownedcore.com/forums/world-of-warcraft/world-of-warcraft-emulator-servers/wow-emu-general-releases/1099512-legendary-release-0-player-project-legendarycore-3-3-5a-wotlk-repack.html
+-  Omitted As no interest 
 <!-- Unfortunately
 THIS PROJECT HAS BEEN ABANDONED -->
 
