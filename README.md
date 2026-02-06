@@ -11,8 +11,8 @@
 <!-- GitHub Streak -->
 <h1> 🔢 <h1> 
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Abd-ulRahman&theme=dark)](https://git.io/streak-stats)
-  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Abd-ulRahman&theme=dark)](https://git.io/streak-stats)
+
 <!-- visitor counter -->
 <h1> 🧐 <h1>
   
