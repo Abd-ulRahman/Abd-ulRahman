@@ -45,8 +45,12 @@ THIS PROJECT HAS BEEN ABANDONED -->
 ![image](https://github.com/Abd-ulRahman/Abd-ulRahman/assets/1366228/ef4fc7cc-5967-403f-8863-a882d8d49738)
 
 - 🌱 I’m currently learning Full stack development.
+
+- The following program "ETM" Employee Training Management Devloped by me.
+
+https://www.youtube.com/watch?v=nJFKPBJIGrI
   
-- ✔ This is My first Work with Swish Max 4 and Adobe animate.
+- ✔ This is My first Work with Swish Max 4 and Adobe animate, This is used with my above ETM to reject unothroized employees.
 
 ![index3](https://github.com/Abd-ulRahman/Abd-ulRahman/blob/main/images/index3.gif)
 
