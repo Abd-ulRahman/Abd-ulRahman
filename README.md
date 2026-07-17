@@ -50,7 +50,7 @@ THIS PROJECT HAS BEEN ABANDONED -->
 
 https://www.youtube.com/watch?v=nJFKPBJIGrI
   
-- ✔ This is My first Work with Swish Max 4 and Adobe animate, This is used with my above ETM to reject unothroized employees.
+- ✔ This is My first Work with Swish Max 4 and Adobe animate, This is used with my above ETM to reject unothroized employees to limit Authority access.
 
 ![index3](https://github.com/Abd-ulRahman/Abd-ulRahman/blob/main/images/index3.gif)
 
